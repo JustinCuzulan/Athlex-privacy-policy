@@ -1,10 +1,8 @@
-# Privacy Policy for WorkoutLog
+# Privacy Policy for Athlex
 
 **Last Updated:** 2 January 2026
 
-This Privacy Policy describes how [Your Company Name] (""we,"" ""us,"" or ""our"") collects, uses, and discloses your information when you use the WorkoutLog mobile application (the ""App"").
-
-**Disclaimer:** This is a template and NOT legal advice. You MUST have this policy reviewed by a qualified legal professional to ensure it complies with all applicable laws and regulations (like GDPR, CCPA, etc.) before publishing it.
+This Privacy Policy describes how STDIO.H (""we,"" ""us,"" or ""our"") collects, uses, and discloses your information when you use the WorkoutLog mobile application (the ""App"").
 
 ## 1. Information We Collect
 
