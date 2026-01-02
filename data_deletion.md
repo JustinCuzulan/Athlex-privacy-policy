@@ -28,7 +28,7 @@ To request the deletion of your Athlex account and all associated data, please f
 
 1.  From the email address associated with your Athlex account, send an email to our support team at:
       buhtlawdzemstudios@gmail.com
-2.  In the subject line of the email, please write: **""Account Deletion Request - buhtlawdzemstudios@gmail.com""**.
+2.  In the subject line of the email, please write: **""Account Deletion Request - Account Username/Email""**.
 3.  In the body of the email, please clearly state your request for account deletion. For security purposes, we may ask for additional information to verify your identity before processing the request.
 ## Processing Time
 
